@@ -118,7 +118,7 @@ font-size:0.85rem;
 } 
 /** hero-section **/
 .hero-section{
-    background-image:url("herosection_image.jpg");
+    background-image:url("images/herosection_image.jpg");
     background-size:cover;
     height:350px;
     display:flex;
